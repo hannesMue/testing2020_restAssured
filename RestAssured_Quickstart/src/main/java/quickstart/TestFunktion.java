@@ -16,7 +16,7 @@ import io.restassured.http.ContentType;
 public class TestFunktion {	
 	
 	@Test
-	public void getAllEmployees() {
+	public void getAllEmployeesAndLogBody() {
 		baseURI = "https://jsonplaceholder.typicode.com";
 		given().when().
 		get("/todos").
@@ -24,7 +24,7 @@ public class TestFunktion {
 	}
 
 	@Test 
-	public void createEmployee() {
+	public void createEmployeeWithMapAndValidateStatusCode() {
 		
 		//Map um JSON-Objekt zu simulieren
 		Map<String, Object>  request = new HashMap();
