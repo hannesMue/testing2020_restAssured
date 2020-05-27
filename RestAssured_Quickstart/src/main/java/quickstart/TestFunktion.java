@@ -37,6 +37,6 @@ public class TestFunktion {
 		given().body(request).
 		when().
 		post("/posts").
-		then().assertThat().statusCode(201);
+		then().assertThat().statusCode(201).and().log().all();
 	}
 }
