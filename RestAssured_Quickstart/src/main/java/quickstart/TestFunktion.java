@@ -30,8 +30,8 @@ public class TestFunktion {
 		Map<String, Object>  request = new HashMap();
 		request.put("userId","1");
 		request.put("id","100");
-		request.put("title","servus");
-		request.put("body","blablabla");
+		request.put("title","Hallo");
+		request.put("body","Hallo Welt");
 		
 		baseURI = "https://jsonplaceholder.typicode.com";
 		given().body(request).
