@@ -1,0 +1,320 @@
+{
+  "customer": [
+    {
+      "customerName": "ZOARERE",
+      "customer_id": "5eb82b24deab04e712e99842",
+      "phone": "+1 (986) 515-2515",
+      "address": {
+        "street": "Whitney Avenue",
+        "streetNumber": 59,
+        "city": "Soham",
+        "state": "Hawaii",
+        "postalCode": 9878
+      },
+      "contactPerson": {
+        "first": "Zamora",
+        "last": "Franks"
+      },
+      "email": "zamora.franks@undefined.ca",
+      "customerCategorie": "B",
+      "customerSince": "April 11, 1972",
+      "sumOfCurrentDebits": "4,107.11 $",
+      "currentOrders": [
+        {
+          "order_id": "5eb82b24b874a319a54f0eb1",
+          "positions": 3,
+          "items": [
+            {
+              "itemName": "Devon_4899Y",
+              "item_id": "5eb82b246ee6382365291def",
+              "itemPrice": "749.70 $",
+              "itemRelease": "August 5, 2002",
+              "availableInStock": false,
+              "itemCategorie": "B"
+            },
+            {
+              "itemName": "Devon_4899Y",
+              "item_id": "5eb82b246ee6382365291def",
+              "itemPrice": "749.70 $",
+              "itemRelease": "August 5, 2002",
+              "availableInStock": false,
+              "itemCategorie": "B"
+            },
+            {
+              "itemName": "Devon_4899Y",
+              "item_id": "5eb82b246ee6382365291def",
+              "itemPrice": "749.70 $",
+              "itemRelease": "August 5, 2002",
+              "availableInStock": false,
+              "itemCategorie": "B"
+            }
+          ],
+          "invoiceAmount": "2249.10 $",
+          "orderCategorie": "High Relevance"
+        }
+      ]
+    },
+    {
+      "customerName": "FROLIX",
+      "customer_id": "5eb82b2405def7aa1f3e8286",
+      "phone": "+1 (991) 524-3323",
+      "address": {
+        "street": "Krier Place",
+        "streetNumber": 137,
+        "city": "Summerset",
+        "state": "New Hampshire",
+        "postalCode": 3085
+      },
+      "contactPerson": {
+        "first": "Gena",
+        "last": "Alvarado"
+      },
+      "email": "gena.alvarado@undefined.us",
+      "customerCategorie": "B",
+      "customerSince": "June 12, 2012",
+      "sumOfCurrentDebits": "1,518.62 $",
+      "currentOrders": [
+        {
+          "order_id": "5eb82b24253b28b59b63b7e8",
+          "positions": 1,
+          "items": [
+            {
+              "itemName": "Marysville_3606Y",
+              "item_id": "5eb82b2481fc529adf5b8b03",
+              "itemPrice": "1,111.93 $",
+              "itemRelease": "May 17, 2003",
+              "availableInStock": false,
+              "itemCategorie": "A"
+            }
+          ],
+          "invoiceAmount": "1,111.93 $",
+          "orderCategorie": "High Relevance"
+        },
+        {
+          "order_id": "5eb82b2466848088c022d219",
+          "positions": 1,
+          "items": [
+            {
+              "itemName": "Groveville_866P",
+              "item_id": "5eb82b24073cab0ee5d767c2",
+              "itemPrice": "1,186.20 $",
+              "itemRelease": "June 27, 2002",
+              "availableInStock": false,
+              "itemCategorie": "A"
+            }
+          ],
+          "invoiceAmount": "1,186.20 $",
+          "orderCategorie": "High Relevance"
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "supplierName": "SAVVY",
+      "supplier_id": "5eb82b248d4215da045bf4b2",
+      "phone": "+1 (856) 569-3454",
+      "address": {
+        "street": "Prince Street",
+        "streetNumber": 87,
+        "city": "Lloyd",
+        "state": "Northern Mariana Islands",
+        "postalCode": 262
+      },
+      "contactPerson": {
+        "first": "Cynthia",
+        "last": "Adkins"
+      },
+      "email": "cynthia.adkins@undefined.biz",
+      "supplierCategorie": "B",
+      "supplierSince": "July 24, 1979",
+      "sumOfCurrentDebits": "8,053.62 $"
+    },
+    {
+      "supplierName": "ZENTIA",
+      "supplier_id": "5eb82b248cae85b4a142d22e",
+      "phone": "+1 (887) 456-3832",
+      "address": {
+        "street": "Harrison Avenue",
+        "streetNumber": 51,
+        "city": "Ola",
+        "state": "Guam",
+        "postalCode": 5169
+      },
+      "contactPerson": {
+        "first": "Kristin",
+        "last": "Casey"
+      },
+      "email": "kristin.casey@undefined.me",
+      "supplierCategorie": "C",
+      "supplierSince": "October 17, 1963",
+      "sumOfCurrentDebits": "38,169.31 $"
+    },
+    {
+      "supplierName": "XTH",
+      "supplier_id": "5eb82b24759045185d811ee5",
+      "phone": "+1 (927) 411-3862",
+      "address": {
+        "street": "Elmwood Avenue",
+        "streetNumber": 54,
+        "city": "Tecolotito",
+        "state": "Utah",
+        "postalCode": 2557
+      },
+      "contactPerson": {
+        "first": "Ethel",
+        "last": "Terrell"
+      },
+      "email": "ethel.terrell@undefined.tv",
+      "supplierCategorie": "C",
+      "supplierSince": "October 20, 1992",
+      "sumOfCurrentDebits": "39,459.77 $"
+    },
+    {
+      "supplierName": "VOIPA",
+      "supplier_id": "5eb82b245b338f7cf2ececa6",
+      "phone": "+1 (837) 465-3095",
+      "address": {
+        "street": "John Street",
+        "streetNumber": 95,
+        "city": "Shepardsville",
+        "state": "West Virginia",
+        "postalCode": 8376
+      },
+      "contactPerson": {
+        "first": "Jarvis",
+        "last": "Page"
+      },
+      "email": "jarvis.page@undefined.co.uk",
+      "supplierCategorie": "C",
+      "supplierSince": "December 29, 1998",
+      "sumOfCurrentDebits": "41,963.86 $"
+    },
+    {
+      "supplierName": "MANTRO",
+      "supplier_id": "5eb82b24c6821569c568e814",
+      "phone": "+1 (959) 565-2452",
+      "address": {
+        "street": "Greene Avenue",
+        "streetNumber": 111,
+        "city": "Lewis",
+        "state": "Nebraska",
+        "postalCode": 9127
+      },
+      "contactPerson": {
+        "first": "Beryl",
+        "last": "Stein"
+      },
+      "email": "beryl.stein@undefined.ca",
+      "supplierCategorie": "C",
+      "supplierSince": "February 13, 2015",
+      "sumOfCurrentDebits": "11,132.99 $"
+    }
+  ],
+  "items": [
+    {
+      "itemName": "Kraemer_3646Y",
+      "item_id": "5eb82b2498e3309c2c86a6a9",
+      "itemPrice": "697.36 $",
+      "itemRelease": "2004-10-06",
+      "availableInStock": true,
+      "itemCategorie": "B",
+      "id": 1
+    },
+    {
+      "itemName": "Devon_4899Y",
+      "item_id": "5eb82b246ee6382365291def",
+      "itemPrice": "749.70 $",
+      "itemRelease": "2002-08-05",
+      "availableInStock": false,
+      "itemCategorie": "B",
+      "id": 2
+    },
+    {
+      "itemName": "Marysville_3606Y",
+      "item_id": "5eb82b2481fc529adf5b8b03",
+      "itemPrice": "1,111.93 $",
+      "itemRelease": "2003-05-17",
+      "availableInStock": false,
+      "itemCategorie": "A",
+      "id": 3
+    },
+    {
+      "itemName": "Slovan_3471Z",
+      "item_id": "5eb82b24a4a7e5baf909290d",
+      "itemPrice": "106.91 $",
+      "itemRelease": "2008-03-02",
+      "availableInStock": true,
+      "itemCategorie": "C",
+      "id": 4
+    },
+    {
+      "itemName": "Groveville_866P",
+      "item_id": "5eb82b24073cab0ee5d767c2",
+      "itemPrice": "1,186.20 $",
+      "itemRelease": "2002-06-27",
+      "availableInStock": false,
+      "itemCategorie": "A",
+      "id": 5
+    },
+    {
+      "itemName": "Tibbie_608X",
+      "item_id": "5eb83473781d1e07e628998c",
+      "itemPrice": "248,07 $",
+      "itemRelease": "2017-12-25",
+      "availableInStock": false,
+      "itemCategorie": "C",
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "5eb82b24c89a49f692b56f9a",
+      "positions": 1,
+      "invoiceAmount": "3,582.71 $",
+      "orderCategorie": "High Relevance"
+    },
+    {
+      "order_id": "5eb82b24eefd132250f4ded0",
+      "positions": 3,
+      "invoiceAmount": "744.21 $",
+      "orderCategorie": "Medium Relevance"
+    },
+    {
+      "order_id": "5eb82b2466848088c022d219",
+      "positions": 1,
+      "invoiceAmount": "1,963.09 $",
+      "orderCategorie": "High Relevance"
+    },
+    {
+      "order_id": "5eb82b24e2000028952fa3d5",
+      "positions": 1,
+      "invoiceAmount": "2,598.47 $",
+      "orderCategorie": "High Relevance"
+    },
+    {
+      "order_id": "5eb82b24253b28b59b63b7e8",
+      "positions": 1,
+      "invoiceAmount": "2,553.69 $",
+      "orderCategorie": "High Relevance"
+    },
+    {
+      "order_id": "5eb82b24b874a319a54f0eb1",
+      "positions": 3,
+      "invoiceAmount": "2,322.82 $",
+      "orderCategorie": "High Relevance"
+    },
+    {
+      "order_id": "5eb82b24bb2d5d0f1a779f7c",
+      "positions": 2,
+      "invoiceAmount": "72.27 $",
+      "orderCategorie": "Low Relevance"
+    },
+    {
+      "order_id": "5eb82b24dbd5e5d059c206cc",
+      "positions": 3,
+      "invoiceAmount": "836.27 $",
+      "orderCategorie": "Medium Relevance"
+    }
+  ]
+}
